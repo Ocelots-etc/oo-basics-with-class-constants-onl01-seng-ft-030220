@@ -13,5 +13,6 @@ GENRES = []
   end
 
 def genre=["Thriller"]
+end
 
 end
